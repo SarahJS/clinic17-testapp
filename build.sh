@@ -1,1 +1,1 @@
-sudo docker build -t="clinic17-testapp"
+sudo docker build -t="clinic17-testapp" .
